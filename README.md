@@ -1,8 +1,8 @@
 ## About Me
 
-* 🧙‍♂️ My name is Alison Pezzott.
-* 🚀 I am content creator for the [YouTube.](http://youtube.com/@alisonpezzott)
-* 🌍 I live in [Jundiaí, São Paulo, Brasil.](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
+* 🧙‍♂️ My name is Leonardo Vinicius Ruelis Mota.
+* 🚀 I am FP&A Expecialist 
+* 🌍 I live in [Goiânia, Goiás, Brasil.](https://maps.app.goo.gl/mUWSFz7Pe59xNF7q6)
 
 
 <div align="center">
