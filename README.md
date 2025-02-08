@@ -19,33 +19,12 @@
 ## Statistics
 
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
-</div>
-
-## Popular Repositories
-
-<div>
-  <a href="https://github.com/alisonpezzott/calendar_periods_time_tables_power_bi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar_periods_time_tables_power_bi&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/contribuicoes-comunidade"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=contribuicoes-comunidade&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/tmdl-calendario"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=tmdl-calendario&bg_color=00000000&hide_border=true&locale=en" /></a>  
-  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=motaleonardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=motaleonardo&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
 ## Gists
-[Visit my snippets!](https://gist.github.com/alisonpezzott) 
-
-## Recent Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Dias entre vendas no Power BI com DAX Avançado](https://ytcards.demolab.com/?id=1dhg2yyiEOA&title=Dias+entre+vendas+no+Power+BI+com+DAX+Avan%C3%A7ado&lang=en&timestamp=1738709987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dias entre vendas no Power BI com DAX Avançado")](https://www.youtube.com/watch?v=1dhg2yyiEOA)
-[![Slowly Changing Dimension Type 2 (SCD Type 2) no Microsoft Fabric](https://ytcards.demolab.com/?id=vGP4Ud2kFZo&title=Slowly+Changing+Dimension+Type+2+%28SCD+Type+2%29+no+Microsoft+Fabric&lang=en&timestamp=1738235471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Slowly Changing Dimension Type 2 (SCD Type 2) no Microsoft Fabric")](https://www.youtube.com/watch?v=vGP4Ud2kFZo)
-[![Introdução aos Data Pipelines no Microsoft Fabric](https://ytcards.demolab.com/?id=gFN8_qEpJHg&title=Introdu%C3%A7%C3%A3o+aos+Data+Pipelines+no+Microsoft+Fabric&lang=en&timestamp=1737930392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Introdução aos Data Pipelines no Microsoft Fabric")](https://www.youtube.com/watch?v=gFN8_qEpJHg)
-[![Ingerindo Dados com Dataflows Gen2 no Microsoft Fabric](https://ytcards.demolab.com/?id=GBglKCRVyak&title=Ingerindo+Dados+com+Dataflows+Gen2+no+Microsoft+Fabric&lang=en&timestamp=1737678155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ingerindo Dados com Dataflows Gen2 no Microsoft Fabric")](https://www.youtube.com/watch?v=GBglKCRVyak)
-[![Microsoft Fabric | Arquitetura Medallion de ponta a ponta](https://ytcards.demolab.com/?id=4t7d41RyCt4&title=Microsoft+Fabric+%7C+Arquitetura+Medallion+de+ponta+a+ponta&lang=en&timestamp=1737367203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Microsoft Fabric | Arquitetura Medallion de ponta a ponta")](https://www.youtube.com/watch?v=4t7d41RyCt4)
-[![TMDL View Power BI - Primeiras impressões](https://ytcards.demolab.com/?id=RO35mRk02bI&title=TMDL+View+Power+BI+-+Primeiras+impress%C3%B5es&lang=en&timestamp=1737020331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TMDL View Power BI - Primeiras impressões")](https://www.youtube.com/watch?v=RO35mRk02bI)
-<!-- END YOUTUBE-CARDS -->
+[Visit my snippets!](https://gist.github.com/motaleonardo)
 
 
 
