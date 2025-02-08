@@ -23,9 +23,6 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=motaleonardo&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
-## Gists
-[Visit my snippets!](https://gist.github.com/motaleonardo)
-
 
 
 
